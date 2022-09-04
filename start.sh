@@ -19,4 +19,4 @@ pip install apache-airflow-providers-common-sql[pandas]
 pip install pandas
 pip install pymssql
 
-airflow standalone
+airflow standalone 
