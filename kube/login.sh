@@ -1,0 +1,1 @@
+az aks get-credentials --resource-group embersilk-kube-rg --name embersilk-kube --admin
